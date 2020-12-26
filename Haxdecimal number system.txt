@@ -1,0 +1,68 @@
+ HEXA DECIMAL NUMBER 
+
+Decimal number system 
+0.3
+0 to 9
+deci mean 10 
+------------------------
+Binary Numbers system 
+
+0 and 1
+
+01010101010101010010110010101010101100101
+
+haxa decimal number 
+6+10
+(0 to 9)+A to F
+A=10
+B=11
+C=12
+D=13
+E=14
+F=15
+hexa decimal number start with a #
+example=#FFDDCC
+-------------------------------------------------------------------------
+56
+=50+6
+=5x10^1+6x10^0
+-----------------------------------------------------------------------
+ 123
+=100+20+3
+= 1x10^2+2x10^1+3x10^0
+-----------------------------------------------------------------------------
+binary number 
+101
+=1x2^2+0x2^1+1x2^0
+=4+0+1
+=5--
+-----------------------------------------------------------------------------
+hexa decimal number  to decimal number 
+
+AD
+=A*16^1+D*16^0
+=10*16+13
+=160+13
+=173
+-------------------------------------------------------------------------
+Convert decimal number to Hexa decimal
+255
+=divided 255 / 16
+Quotient=15
+remainder= 15
+
+divided 15/16
+quotient=0
+remainder=15
+divided till the quotient becames = 0
+now check the remainder bottom to top 
+remainder=15,15
+=FF
+----------------------------------------------------------------------------------------
+
+rGb(255,255,255)
+#FFFFFF
+
+RGB(128,128,128)
+#808080
+s
